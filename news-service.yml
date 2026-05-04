@@ -1,0 +1,7 @@
+server:
+  port: 8083
+
+api:
+  title: News Service API
+  description: Microservicio REST integrado con CORBA para noticias de jugadores
+  version: 1.0.0
