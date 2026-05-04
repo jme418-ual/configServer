@@ -1,0 +1,7 @@
+server:
+  port: 8081
+
+api:
+  title: Players Service API
+  description: Microservicio para la gestion de jugadores de futbol
+  version: 1.0.0
