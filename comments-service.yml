@@ -1,2 +1,7 @@
 server:
   port: 8082
+
+api:
+  title: Comments Service API
+  description: Microservicio para la gestion de comentarios de jugadores
+  version: 1.0.0
